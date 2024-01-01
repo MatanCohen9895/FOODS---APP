@@ -1,0 +1,17 @@
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\bin\Debug\Ex3.exe.config
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\bin\Debug\Ex3.exe
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\bin\Debug\Ex3.pdb
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Admin_page.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Form1.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Form2.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Form3.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Form4.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Form5.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.open_page.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.Properties.Resources.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.User_page.resources
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.exe
+C:\Users\MATAN COHEN\Downloads\מעבדה מתקדמת בניהול בסיסי נתונים\Final Project\MATAN_ORI\GUI\obj\Debug\Ex3.pdb
